@@ -9,11 +9,11 @@ This file is used to log the result of your UnitTests.
 Admitting you called it TR in your imports here is how it works : 
 
 #### For a single variable result
->TR.Print_singleResult(yourResult) 
+>TR.Print_singleResult(yourResult);
 
 #### For a Collection result
->TR.Print_listResult(yourListResult)
+>TR.Print_listResult(yourListResult);
 ##### OR
->TR.Print_listResult<YourListType>(yourListResult) ///For more lisibility
+>TR.Print_listResult<YourListType>(yourListResult); ///For more lisibility
 
 # MappingModel.cs
